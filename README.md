@@ -2,6 +2,8 @@
 LED STRIP WS2812B reacting to music connected through your AUX 3.5mm Jack
 Connections are simple and you can connect 2 LED strips - WS2812B and can change effects by pressing button [Push Button]
 
+PS- There are 2 versions of code in Folder "CODES" you can check both of them, which suits you Version 2.0 is stable and working smooth without any glitches
+
 # Preparing Arduino Libraries
 
 This step is very important as your arduino some FAST LED and NEOPIXEL library to work upon for your WS2812Bs
@@ -40,7 +42,7 @@ Complete Schematic Diagram for connection guide:
 
 This connection is for only one LED Strip and you can connect two LED strips to board on PIN 5 and 6
 
-And connect GND of pushbutton [Any part of button] and other[other than GND] to input 4 PIN on arduino board
+And connect GND of pushbutton [Any part of button] and other[other than GND] to input 0 PIN [RX written on PIN] on arduino board
 
 # Final Conclusion
 
@@ -54,6 +56,6 @@ Currently all credits goes to "Cine Lights" for schematics and Arduino Code
 
 //PLEASE PUT ALL THE FILES OF "CODES" folder in one place to work without any error//
 
-Code has been tested and works smooth, without any error
+Code has been tested and works smooth, without any error [Version 2.0 is more smooth and better]
 
 Sometimes after defined clicks of button, Board runs random programs [Means Crash] this is not clear, but you can external power supply or use Arduino Mega instead of Uno
