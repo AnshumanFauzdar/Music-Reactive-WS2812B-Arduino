@@ -1,12 +1,28 @@
 # Sound-Reactive-WS2812B
 LED STRIP WS2812B reacting to music connected through your AUX 3.5mm Jack
-Connections are simple and you can connect 2 LED strips - WS2812B
+Connections are simple and you can connect 2 LED strips - WS2812B and can change effects by pressing button [Push Button]
 
 # Preparing Arduino Libraries
 
 This step is very important as your arduino some FAST LED and NEOPIXEL library to work upon for your WS2812Bs
 
-Download FAST LED libraries from Github or simply go to Sketch/Include Library/Manage Libraries/ and search for FAST LED - FastLED by Daniel Garcia and install
+Download FAST LED libraries from Github(link in description) or simply go to ---->Sketch/Include_Library/Manage_Libraries/ and search for FAST LED - FastLED by Daniel Garcia and install, do restart your IDE to take effect
 
-Do search for NEOPIXEL and install in same way as discussed above
+Do search for NEOPIXEL "https://github.com/adafruit/Adafruit_NeoPixel" and install in same way as Procedure above
 
+For other cool effects for your WS2812B you can add WS2812FX library [Same way as for Fast LED] - Cool and funky features are added for WS2812Bs
+
+# Arduino Schematics and Connection
+
+For complete wiring of WS2812B AKA Neopixel you should read complete detail on "https://learn.adafruit.com/adafruit-neopixel-uberguide/basic-connections" for power distribution and other details for which these WS2812B are sensitive to
+
+Now coming to connection, always remember to attach common ground wiring, as not doing so can destroy you components!
+
+For Aux connection coming from your phone, laptop or any other source......
+
+Connection:  Ground to Ground
+             Black wire to Analogue Pin 4 - A4
+             Red Wire to Analogue Pin 5 - A5
+        //If ground is both in RCA cable, connect both - mostly AUX cables have 1 ground cable//
+        
+        
