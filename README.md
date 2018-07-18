@@ -20,7 +20,9 @@ Now coming to connection, always remember to attach common ground wiring, as not
 
 For Aux connection coming from your phone, laptop or any other source......
 
-Connection:  Ground to Ground
+Connection:
+
+             Ground to Ground
 
             
              Black wire to Analogue Pin 4 - A4
