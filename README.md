@@ -21,8 +21,14 @@ Now coming to connection, always remember to attach common ground wiring, as not
 For Aux connection coming from your phone, laptop or any other source......
 
 Connection:  Ground to Ground
+
+            
              Black wire to Analogue Pin 4 - A4
+             
+             
              Red Wire to Analogue Pin 5 - A5
+             
+             
         //If ground is both in RCA cable, connect both - mostly AUX cables have 1 ground cable//
         
         
