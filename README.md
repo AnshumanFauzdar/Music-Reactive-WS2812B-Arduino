@@ -59,3 +59,8 @@ Currently all credits goes to "Cine Lights" for schematics and Arduino Code
 Code has been tested and works smooth, without any error [Version 2.0 is more smooth and better]
 
 Sometimes after defined clicks of button, Board runs random programs [Means Crash] this is not clear, but you can external power supply or use Arduino Mega instead of Uno
+
+# DEMO
+Press this GIF to watch Video
+
+[![Sound Reactive](https://i.makeagif.com/media/7-18-2018/NXR9YE.gif)](https://www.youtube.com/watch?v=vO9qPDmkg7A)
