@@ -38,7 +38,7 @@ Connection:
         
 Complete Schematic Diagram for connection guide:
 
-![alt text](https://user-images.githubusercontent.com/40523329/42878038-497a6bbc-8aa9-11e8-8569-0bb6781f5f54.png)[alt text](https://www.youtube.com/channel/UCOG6Bi2kvpDa1c8gHWZI5CQ)
+![alt text](https://user-images.githubusercontent.com/40523329/42878038-497a6bbc-8aa9-11e8-8569-0bb6781f5f54.png)(https://www.youtube.com/channel/UCOG6Bi2kvpDa1c8gHWZI5CQ)
 
 This connection is for only one LED Strip and you can connect two LED strips to board on PIN 5 and 6
 
