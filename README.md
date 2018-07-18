@@ -34,3 +34,6 @@ Connection:
         //If ground is both in RCA cable, connect both - mostly AUX cables have 1 ground cable//
         
         
+Complete Schematic Diagram for connection guide:
+
+https://user-images.githubusercontent.com/40523329/42878038-497a6bbc-8aa9-11e8-8569-0bb6781f5f54.png
