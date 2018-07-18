@@ -37,3 +37,23 @@ Connection:
 Complete Schematic Diagram for connection guide:
 
 ![alt text](https://user-images.githubusercontent.com/40523329/42878038-497a6bbc-8aa9-11e8-8569-0bb6781f5f54.png)
+
+This connection is for only one LED Strip and you can connect two LED strips to board on PIN 5 and 6
+
+And connect GND of pushbutton [Any part of button] and other[other than GND] to input 4 PIN on arduino board
+
+# Final Conclusion
+
+This project is in development phase, and lack some coding details and other parameters
+
+In future, ESP8266 Wifi module will be added to this and will work like a project on IOT [Internet OF Things]
+
+Currently all credits goes to "Cine Lights" for schematics and Arduino Code
+
+# Errors and Issues
+
+//PLEASE PUT ALL THE FILES OF "CODES" folder in one place to work without any error//
+
+Code has been tested and works smooth, without any error
+
+Sometimes after defined clicks of button, Board runs random programs [Means Crash] this is not clear, but you can external power supply or use Arduino Mega instead of Uno
