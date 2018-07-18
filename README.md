@@ -10,7 +10,7 @@ Download FAST LED libraries from Github(link in description) or simply go to ---
 
 Do search for NEOPIXEL "https://github.com/adafruit/Adafruit_NeoPixel" and install in same way as Procedure above
 
-For other cool effects for your WS2812B you can add WS2812FX library [Same way as for Fast LED] - Cool and funky features are added for WS2812Bs
+For other cool effects for your WS2812B you can add WS2812FX library "https://github.com/kitesurfer1404/WS2812FX" [Same way as for Fast LED] - Cool and funky features are added for WS2812Bs
 
 # Arduino Schematics and Connection
 
