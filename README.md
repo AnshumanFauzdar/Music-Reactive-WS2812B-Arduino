@@ -2,11 +2,11 @@
 LED STRIP WS2812B reacting to music connected through your AUX 3.5mm Jack
 Connections are simple and you can connect 2 LED strips - WS2812B and can change effects by pressing button [Push Button]
 
-PS- There are 2 versions of code in Folder "CODES" you can check both of them, which suits you Version 2.0 is stable and working smooth without any glitches
+PS:- There are 2 versions of code in Folder "CODES" you can check both of them, which suits you Version 2.0 is stable and working smooth without any glitches
 
 # Preparing Arduino Libraries
 
-This step is very important as your arduino some FAST LED and NEOPIXEL library to work upon for your WS2812Bs
+This step is very important as your arduino need some FAST LED and NEOPIXEL library to work upon for your WS2812Bs
 
 Download FAST LED libraries from Github(link in description) or simply go to ---->Sketch/Include_Library/Manage_Libraries/ and search for FAST LED - FastLED by Daniel Garcia and install, do restart your IDE to take effect
 
