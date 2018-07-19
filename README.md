@@ -17,7 +17,7 @@ Do search for NEOPIXEL "https://github.com/adafruit/Adafruit_NeoPixel" and insta
 
 For other cool effects for your WS2812B you can add WS2812FX library "https://github.com/kitesurfer1404/WS2812FX" [Same way as for Fast LED] - Cool and funky features are added for WS2812Bs
 
-Keep the Codes in one folder contaning other libraries --->rgb.h ---->rgb_operators.h ------>water_torture.h
+Keep the Codes in one folder contaning other libraries --->rgb.h ---->rgb_operators.h ------>water_torture.h //Not doing so will give you compiling errors//
 
 # Arduino Schematics and Connection
 
