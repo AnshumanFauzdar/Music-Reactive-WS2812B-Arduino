@@ -2,6 +2,9 @@
 LED STRIP WS2812B reacting to music connected through your AUX 3.5mm Jack
 Connections are simple and you can connect 2 LED strips - WS2812B and can change effects by pressing button [Push Button]
 
+Arduino Mega is highly recommended as UNO is only capable of processing upto 50 LEDs more precisely upto 30 is processed
+For 30+ LEDs use Mega instead of Uno
+
 PS:- There are 2 versions of code in Folder "CODES" you can check both of them, which suits you Version 2.0 is stable and working smooth without any glitches
 
 # Preparing Arduino Libraries
@@ -13,6 +16,8 @@ Download FAST LED libraries from Github(link in description) or simply go to ---
 Do search for NEOPIXEL "https://github.com/adafruit/Adafruit_NeoPixel" and install in same way as Procedure above
 
 For other cool effects for your WS2812B you can add WS2812FX library "https://github.com/kitesurfer1404/WS2812FX" [Same way as for Fast LED] - Cool and funky features are added for WS2812Bs
+
+Keep the Codes in one folder contaning other libraries --->rgb.h ---->rgb_operators.h ------>water_torture.h
 
 # Arduino Schematics and Connection
 
@@ -35,14 +40,15 @@ Connection:
              
         //If ground is both in RCA cable, connect both - mostly AUX cables have 1 ground cable//
         
-        
+If connection of arduino and audio source is same that is if you are using your PC, then there is no need to connect GND of AUX to Arduino board        
+
 Complete Schematic Diagram for connection guide:
 
 ![alt text](https://user-images.githubusercontent.com/40523329/42878038-497a6bbc-8aa9-11e8-8569-0bb6781f5f54.png)
 
-This connection is for only one LED Strip and you can connect two LED strips to board on PIN 5 and 6
+This connection is for only one LED Strip and you can connect two LED strips to board on PIN 5 and 6 [Can adjust to your configurations]
 
-And connect GND of pushbutton [Any part of button] and other[other than GND] to input 0 PIN [RX written on PIN] on arduino board
+And connect GND of PushButton [Any part of button] and other[other than GND] to input 0 PIN [RX written on PIN] on arduino board
 
 # Final Conclusion
 
@@ -58,7 +64,7 @@ Currently all credits goes to "Cine Lights" for schematics and Arduino Code
 
 Code has been tested and works smooth, without any error [Version 2.0 is more smooth and better]
 
-Sometimes after defined clicks of button, Board runs random programs [Means Crash] this is not clear, but you can external power supply or use Arduino Mega instead of Uno
+ARDUINO UNO - Sometimes after defined clicks of button, Board runs random programs [Means Crash] this is due to low memory of UNO, Arduino Mega is higly recommended
 
 # DEMO
 Press this GIF to watch Video
