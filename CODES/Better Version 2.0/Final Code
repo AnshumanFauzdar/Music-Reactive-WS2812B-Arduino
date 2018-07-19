@@ -1,3 +1,6 @@
+// Project by Anshuman Fauzdar, initial code written by cine lights "https://www.youtube.com/channel/UCOG6Bi2kvpDa1c8gHWZI5CQ"
+// You can adjust according to your requirements, comments are mentioned along the effects you can change
+
 #include <Adafruit_NeoPixel.h>
 #include <FastLED.h> 
 #include "water_torture.h"
