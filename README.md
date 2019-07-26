@@ -1,3 +1,4 @@
+[![](https://img.shields.io/github/stars/AnshumanFauzdar/Music-Reactive-WS2812B-Arduino?style=for-the-badge)]()
 # Music-Reactive-WS2812B
 LED STRIP WS2812B reacting to music connected through your AUX 3.5mm Jack
 Connections are simple and you can connect 2 LED strips - WS2812B and can change effects by pressing button [Push Button]
