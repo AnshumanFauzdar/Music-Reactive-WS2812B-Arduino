@@ -67,8 +67,6 @@ Code has been tested and works smooth, without any error [Version 2.0 is more sm
 
 ARDUINO UNO - Sometimes after defined clicks of button, Board runs random programs [Means Crash] this is due to low memory of UNO, Arduino Mega is higly recommended
 
-# DEMO
-Press this GIF to watch Video
+# CREDITS goes to Cine-lights for amazing code and work done
 
-[![Sound Reactive](https://i.makeagif.com/media/7-18-2018/NXR9YE.gif)](https://www.youtube.com/watch?v=vO9qPDmkg7A)
-#
+Subscribe to channel for all the work [Cine-Lights](https://www.youtube.com/channel/UCOG6Bi2kvpDa1c8gHWZI5CQ)
